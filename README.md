@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ariyan Gupta</h1>
-<h3 align="center">A Passionate Front-End Developer & Computer Science Undergrad</h3>
+<h3 align="center">A Passionate Full Stack Developer Developer & Computer Science Undergrad</h3>
 
 ---
 
